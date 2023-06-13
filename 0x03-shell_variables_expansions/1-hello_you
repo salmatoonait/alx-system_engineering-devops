@@ -1,4 +1,5 @@
 #!/bin/bash
-echo "hello salma"
+echo "hello $(whoami)"
+
 
 
